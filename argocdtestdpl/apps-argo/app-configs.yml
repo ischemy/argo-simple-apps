@@ -4,7 +4,7 @@ metadata:
   name: app-configs
 data:
   nginx-index: |
-    <html><body><h1>Ini tampilan dari NGINX dan nama saya [Nama Kamu]</h1></body></html>
+    <html><body><h1>Ini tampilan dari NGINX dan nama saya Ramiza Imam Azka Zakaria</h1></body></html>
   httpd-index: |
-    <html><body><h1>Ini tampilan dari HTTPD dan nama saya [Nama Kamu]</h1></body></html>
+    <html><body><h1>Ini tampilan dari HTTPD dan nama saya Ramiza Imam Azka Zakaria</h1></body></html>
 
